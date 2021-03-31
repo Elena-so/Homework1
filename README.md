@@ -1,8 +1,8 @@
 #### 介绍
 react-lesson。 gitee page: http://citos.gitee.io/react-lesson/ 
 
-https://github.com/Elena-so/Homework1/tree/main/public/capture1.PNG
-https://github.com/Elena-so/Homework1/tree/main/public/capture2.PNG
+![image text](https://github.com/Elena-so/Homework1/tree/main/public/capture1.PNG)
+![image text](https://github.com/Elena-so/Homework1/tree/main/public/capture2.PNG)
 
 #### 从脚手架工程做起
 npm install -g create-react-app
